@@ -16,7 +16,7 @@ Additionally, include five filters in the table (Date, City, State, Country, Sha
 <img align="center" width="650" src="/pics/UFO.png"><br/><br/>
 
 * Table
-<img align="center" width="650" src="/pics/ufo2.png"><br/><br/>
+<img align="left" width="650" src="/pics/ufo2.png"><br/><br/>
 
 * Table with Filters
 <img align="center" width="650" src="/pics/ufo3.png"><br/><br/>
