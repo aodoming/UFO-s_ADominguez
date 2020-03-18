@@ -15,7 +15,7 @@ Additionally, include five filters in the table (Date, City, State, Country, Sha
 * HTML Page
 <img align="center" width="650" src="/pics/UFO.png"><br/><br/>
 
-* Table
+* Table Overview
 <img align="center" width="650" src="/pics/ufo2.png"><br/><br/>
 
 * Table with Filters
